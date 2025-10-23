@@ -3,8 +3,8 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
+- Nombre: Velázquez Rodríguez Fernando
+- Matrícula: s25018137
 - Fecha:
 
 ## 🎯 Objetivos
