@@ -5,7 +5,7 @@
 
 - Nombre: Velázquez Rodríguez Fernando
 - Matrícula: s25018137
-- Fecha:
+- Fecha: 22 /10 / 2025
 
 ## 🎯 Objetivos
 
